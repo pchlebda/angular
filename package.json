@@ -13,8 +13,10 @@
     "@angular/router": "9.1.11",
     "angular-in-memory-web-api": "0.11.0",
     "express": "^4.17.1",
+    "install": "^0.13.0",
     "jasmine-core": "3.5.0",
     "jasmine-marbles": "0.6.0",
+    "path": "^0.12.7",
     "rxjs": "6.5.5",
     "tslib": "1.13.0",
     "zone.js": "0.10.3"
